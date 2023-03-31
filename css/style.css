@@ -626,7 +626,7 @@ span {
     }
 }
 
-/* @media (max-width:1024px) {
+@media (max-width:1024px) {
     .header {
         padding: 2rem 3%;
     }
@@ -899,4 +899,4 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
-} */
+}
